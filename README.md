@@ -5,4 +5,4 @@ Simple chat UI with typing loader for android developers.You can integrate it ea
 
   <img src="https://raw.githubusercontent.com/Vibinreji/ChatUI-with-typing-loader/master/screens/Screenshot_20180806-233018.png" width="350" title="hover text">
 
-
+For loader i have used <a href="https://github.com/nntuyen/mkloader">mk loader</a> library.
